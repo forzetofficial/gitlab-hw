@@ -5,13 +5,13 @@
 
 ### Задание 1
 
-![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img1.png)`
+![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img1.png)
 
-![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img2.png)`
+![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img2.png)
 
-![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img3.png)`
+![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img3.png)
 
-![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img4.png)`
+![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img4.png)
 
 
 ---
