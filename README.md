@@ -23,7 +23,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![img](img15.png)`
+![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img15.png)`
 
 
 ---
