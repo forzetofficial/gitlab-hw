@@ -5,24 +5,10 @@
 
 ### Задание 1
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img15.png)`
+![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img1.png)`
+![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img2.png)`
+![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img3.png)`
+![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/img4.png)`
 
 
 ---
