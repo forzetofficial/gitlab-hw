@@ -48,8 +48,7 @@ build:
     - linux
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![img](https://github.com/forzetofficial/gitlab-hw/blob/main/img/last.png)
 
 
 ---
