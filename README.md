@@ -18,21 +18,34 @@
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
+```yml
+stages:
+  - test
+  - build
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+test:
+  stage: test
+  image: golang:1.17
+  script:
+    - go test .
+  tags:
+    - linux
 
-```
-Поле для вставки кода...
-....
-....
-....
-....
+build:
+  stage: build
+  image: docker:latest
+  variables:
+    DOCKER_HOST: tcp://docker:2375
+    DOCKER_TLS_CERTDIR: ""
+  services:
+    - name: docker:dind
+      alias: docker
+  before_script:
+    - docker info
+  script:
+    - docker build .
+  tags:
+    - linux
 ```
 
 `При необходимости прикрепитe сюда скриншоты
